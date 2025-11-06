@@ -52,11 +52,4 @@ pytest -v
 
 Open generated HTML plots for results.
 
-Notes
 
-Follow APA 7 citation format (see report).
-Attach signed anti-plagiarism declaration.
-Submit via Turnitin.
-
-
-Would you like me to format this as a **README.md** file for you to include in your submission zip?
